@@ -1,16 +1,67 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sandesh</h1>
+<h3 align="center">I am a Student, Academic Advisor and Data Enthusiast</h3>
 
-Thank you for landing here on my GitHub Repo. 
 
-### I am a Student, Academic Advisor and Data Enthusiast.
 
-- 🔭 I’m currently working on **Data Science and Analytics**
-- 🌱 I’m currently learning **ML models in Marketing Analytics** 
-- 👯 I’m looking to collaborate on **any Data Science Projects**
-- ⚡ Fun fact: **I am very funny person. :stuck_out_tongue_winking_eye:**
+- 🔭 I’m currently working on **my Master Degree**
 
-### Connect With Me
-<img align="left" alt="Visual Studio Code" width="26px" src="linkedin.png" style="padding-right:10px;" />
+- 🌱 I’m currently learning **Marketing Analytics, Time-Series Analysis**
 
-### Tools and Languages
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+- 📝 I occasionally write articles on [https://sharmajee499.netlify.app/](https://sharmajee499.netlify.app/)
+
+- 📫 How to reach me **https://www.linkedin.com/in/sharmajee499/**
+
+- 📄 Know about my experiences [https://sharmajee499.netlify.app/](https://sharmajee499.netlify.app/)
+
+- ⚡ Fun fact is that **I am funny.**
+
+<h3 align="left">My Projects:</h3>
+<ol>
+  <li>Classification</li>
+  <ul>
+    <li><a href="https://github.com/sharmajee499/Customer_Churn_Analysis" target="_blank"> Customer Churn Analysis </a></li>
+    <li><a href="https://github.com/sharmajee499/South_German_Credit_Analysis" target="_blank"> Credit Analysis </a></li>
+  </ul>
+  <li>Regression</li>
+    <ul>
+    <li><a href="https://github.com/sharmajee499/Power_Plant_Energy_Prediction_Using_PyCaret" target="_blank"> Power Plant Energy Prediction </a></li>
+    <li><a href="https://github.com/sharmajee499/QSAR-fish-toxicity_Model" target="_blank"> Fish Toxicity Prediction </a></li>
+  </ul>
+  <li>Text Mining</li>
+    <ul>
+    <li><a href="https://github.com/sharmajee499/Text-Analytics-With-R" target="_blank"> Disaster Tweets </a></li>
+  </ul>
+  <li>Computer Vision</li>
+    <ul>
+    <li><a href="https://github.com/sharmajee499/Sandesh_OR_German_Shepherd" target="_blank"> Sandesh or German Shepherd </a></li>
+  </ul>
+</ol>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+ <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> </a> 
+ 
+<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
+</a>
+<a href="https://www.tableau.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.tableau.com/sites/default/files/2022-04/TABlogo_wht.png" alt="tensorflow" width="170" height="40"/> 
+</a>
+</p>
+  
+<h3 align="left">Connect With Me:</h3>
+<p align="left"> 
+<a href="https://www.linkedin.com/in/sharmajee499/" target="_blank" rel="noreferrer"> 
+<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="mssql" width="40" height="40"/> </a> 
+  
+<a href="https://twitter.com/sharmajee499" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-icons.flaticon.com/png/128/3938/premium/3938028.png?token=exp=1656954588~hmac=bc8aa1e9c96b0cdac4a8cc0f098168f2" alt="mssql" width="40" height="40"/> </a> 
