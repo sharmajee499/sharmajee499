@@ -34,6 +34,11 @@
   <li>Computer Vision</li>
     <ul>
     <li><a href="https://github.com/sharmajee499/Sandesh_OR_German_Shepherd" target="_blank"> Sandesh or German Shepherd </a></li>
+    </ul>
+  <li> Game Playing </li>
+    <ul>
+    <li><a href="https://github.com/sharmajee499/8_Puzzel_with_Search_Algorithms" target="_blank"> 8 Puzzel Game </a></li>
+   </ul>
   </ul>
 </ol>
 
@@ -64,4 +69,4 @@
 <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="mssql" width="40" height="40"/> </a> 
   
 <a href="https://twitter.com/sharmajee499" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons.flaticon.com/png/128/3938/premium/3938028.png?token=exp=1656954588~hmac=bc8aa1e9c96b0cdac4a8cc0f098168f2" alt="mssql" width="40" height="40"/> </a> 
+<img src="https://e7.pngegg.com/pngimages/708/311/png-clipart-twitter-twitter-thumbnail.png" alt="twitter" width="40" height="40"/> </a> 
