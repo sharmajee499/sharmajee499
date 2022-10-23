@@ -20,6 +20,7 @@
   <li>Classification</li>
   <ul>
     <li><a href="https://github.com/sharmajee499/Customer_Churn_Analysis" target="_blank"> Customer Churn Analysis </a></li>
+    <li><a href="https://github.com/sharmajee499/Telemarketing_Sales_Prediction" target="_blank"> Telemarketing Sales Prediction </a></li>
     <li><a href="https://github.com/sharmajee499/South_German_Credit_Analysis" target="_blank"> Credit Analysis </a></li>
   </ul>
   <li>Regression</li>
