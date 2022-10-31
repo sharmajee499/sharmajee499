@@ -40,6 +40,10 @@
     <ul>
     <li><a href="https://github.com/sharmajee499/8_Puzzel_with_Search_Algorithms" target="_blank"> 8 Puzzel Game </a></li>
    </ul>
+  
+  <li> Visualization </li>
+  <ul>
+  <li><a href="https://github.com/sharmajee499/Financial-Statements" target="_blank"> Financial Ratio Visualizer </a></li>
   </ul>
 </ol>
 
