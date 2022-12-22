@@ -39,11 +39,15 @@
   <li> Game Playing </li>
     <ul>
     <li><a href="https://github.com/sharmajee499/8_Puzzel_with_Search_Algorithms" target="_blank"> 8 Puzzel Game </a></li>
-   </ul>
-  
+  </ul>
   <li> Visualization </li>
   <ul>
   <li><a href="https://github.com/sharmajee499/Financial-Statements" target="_blank"> Financial Ratio Visualizer </a></li>
+  </ul>
+  
+  <li> Time Series </li>
+  <ul>
+  <li><a href="https://github.com/sharmajee499/Forecasting-US-Natutal-Gas-Consumption" target="_blank"> Forecasting US Natural Gas Consumption </a></li>
   </ul>
 </ol>
 
