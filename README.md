@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sandesh</h1>
-<h3 align="center">I am a Student, Academic Advisor and Data Enthusiast</h3>
+<h3 align="center">I am a Data Enthusiast</h3>
 
 <a href="https://sharmajee499.netlify.app" target="_blank"><img src="https://github.com/sharmajee499/sharmajee499/blob/main/bib.png" alt="Bibliography"></a>
 
-- 🔭 I’m currently working on **my Master Degree**
+- 🔭 I’m currently working for someone.
 
-- 🌱 I’m currently learning **Marketing Analytics, Time-Series Analysis**
+- 🌱 I’m currently learning **Kafka, Big-Data, Data Engineering**
 
 - 📝 I occasionally write articles on [https://sharmajee499.netlify.app/](https://sharmajee499.netlify.app/)
 
